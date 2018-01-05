@@ -64,6 +64,14 @@ http_download is similar to http_test but instead writes the downloaded file to 
 ./test_download 'url' 'filename'
 ```
 
+### test_download
+
+A shell script to compare the output of the http_download against wget
+
+```
+./test_download url
+```
+
 ## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
