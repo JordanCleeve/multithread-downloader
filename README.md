@@ -83,5 +83,5 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## License
 
-This project is licensed under the Attribution-NonCommercial 3.0 New Zealand (CC BY-NC 3.0 NZ) License - see the [LICENCE.md](LICENCE.md) file for details
+This project is licensed under the Attribution-NonCommercial 3.0 New Zealand (CC BY-NC 3.0 NZ) License - see the [LICENSE.md](LICENSE.md) file for details
 
